@@ -1,3 +1,5 @@
+This is the fork project to https://github.com/mikemclin/passport-custom-request-grant. I edited the CustomRequestGrantProvider.php, emptied the register function and copy the content of register function to boot function.
+
 ## Install
 
 Install with composer...  `composer require mikemclin/passport-custom-request-grant`
